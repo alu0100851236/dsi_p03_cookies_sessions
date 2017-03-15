@@ -49,3 +49,15 @@
 * [Direccionamiento](08-expressjs/routing-guide.md)
 * [Utilización del middleware](08-expressjs/using-middleware.md)
 
+## Práctica: Estudiar las Cookies y las Sessions en ExpressJS
+
+* Requisitos
+
+## 09 Cookies
+
+* Introducción
+
+## 10 Sessions en ExpressJS
+
+* Introducción
+
