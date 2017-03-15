@@ -52,12 +52,11 @@
 ## Práctica: Estudiar las Cookies y las Sessions en ExpressJS
 
 * Requisitos
+* Referencias
 
 ## 09 Cookies
 
-* Introducción
+* [Introducción](introduccion.md)
 
 ## 10 Sessions en ExpressJS
-
-* Introducción
 
